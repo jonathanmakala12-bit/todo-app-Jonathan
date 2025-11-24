@@ -35,6 +35,7 @@ choose a number from the menu eg option 1
     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/713f6d9787135948b02c29ac52f9e699532f7d2e/Screenshot%202025-11-24%20183734.png)
 
   - Mark Task as Done
+    
     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/4f9b04b32eb8424a0b3da4377d49e7d135f8d809/Screenshot%202025-11-24%20183852.png)
 
     - 
