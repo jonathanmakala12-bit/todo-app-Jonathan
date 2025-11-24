@@ -41,4 +41,11 @@ choose a number from the menu eg option 1
     - Deleting a task from the file
 
       ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/b1ef8586ba81b1e8686ce275705eceae781519f5/Screenshot%202025-11-24%20183957.png)
+
+      - Checking if you have marked task as done and deleted a task successfully
+
+        ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/223c30bafd2b1527dfa72d5a2e742934e1c28fe4/Screenshot%202025-11-24%20184038.png)
+
+        - Exiting from the app
+          
     
