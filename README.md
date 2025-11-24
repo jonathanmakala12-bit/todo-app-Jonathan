@@ -38,5 +38,7 @@ choose a number from the menu eg option 1
     
     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/4f9b04b32eb8424a0b3da4377d49e7d135f8d809/Screenshot%202025-11-24%20183852.png)
 
-    - 
+    - Deleting a task from the file
+
+      ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/b1ef8586ba81b1e8686ce275705eceae781519f5/Screenshot%202025-11-24%20183957.png)
     
