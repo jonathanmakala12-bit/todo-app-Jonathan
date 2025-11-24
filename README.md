@@ -38,14 +38,16 @@ choose a number from the menu eg option 1
     
     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/4f9b04b32eb8424a0b3da4377d49e7d135f8d809/Screenshot%202025-11-24%20183852.png)
 
-    - Deleting a task from the file
+   - Deleting a task from the file
 
-      ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/b1ef8586ba81b1e8686ce275705eceae781519f5/Screenshot%202025-11-24%20183957.png)
+     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/b1ef8586ba81b1e8686ce275705eceae781519f5/Screenshot%202025-11-24%20183957.png)
 
-      - Checking if you have marked task as done and deleted a task successfully
+     - Checking if you have marked task as done and deleted a task successfully
 
-        ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/223c30bafd2b1527dfa72d5a2e742934e1c28fe4/Screenshot%202025-11-24%20184038.png)
+     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/223c30bafd2b1527dfa72d5a2e742934e1c28fe4/Screenshot%202025-11-24%20184038.png)
 
-        - Exiting from the app
+     - Exiting from the app
+
+     ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/413a16eedee52884bc763cb09fe65bd64c9834a9/Screenshot%202025-11-24%20184121.png)
           
     
