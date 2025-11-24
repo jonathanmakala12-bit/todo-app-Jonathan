@@ -29,4 +29,9 @@ choose a number from the menu eg option 1
   - Adding a menu to the list for adding your own file name
   - adding a settings menu to the list
   - make my code more user friendly when i fully understand how the vector library operates
-  - 
+## Actions of the App
+  - Viewing Tasks
+    
+    ![image alt](https://github.com/jonathanmakala12-bit/todo-app-Jonathan/blob/713f6d9787135948b02c29ac52f9e699532f7d2e/Screenshot%202025-11-24%20183734.png)
+
+    
